@@ -17,3 +17,5 @@ def solve_part_1():
 
 def solve_part_2():
 	pass
+
+solve_part_1()
